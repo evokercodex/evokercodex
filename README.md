@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @evokercodex! 
+- 👀 I’m interested in ... SQL, Data Modeling, and Analysis projects!
+- 🌱 I’m currently learning ... Postgres!
+- 💞️ I’m looking to collaborate on ... data engineering problems!
+- 📫 How to reach me ... DM!
